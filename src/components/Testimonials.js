@@ -1,8 +1,22 @@
 import React from "react";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
-import { testimonials } from "../Testimonials";
+// import { testimonials } from "../Testimonials";
 
 export default function Testimonials() {
+
+  const testimonials = [
+    {
+      quote:
+
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+
+    },
+    {
+      quote:
+
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+    },
+  ];
   return (
     <section id="testimonials">
       <div className="container px-5 py-10 mx-auto text-center">

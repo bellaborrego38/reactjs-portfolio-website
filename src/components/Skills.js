@@ -1,8 +1,17 @@
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
-// import { skills } from "../data";
+import { projects } from "../data";
 
 export default function Skills() {
+
+  const skills = [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node",
+    "Express",
+  ];
   return (
     <section id="skills">
       <div className="container px-5 py-10 mx-auto">
