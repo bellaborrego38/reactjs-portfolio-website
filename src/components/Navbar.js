@@ -17,6 +17,12 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
+          <a href="https://github.com/bellaborrego38" className="mr-5 hover:text-white">
+            GitHub
+          </a>
+          <a href="https://profile.indeed.com/p/4r5t70c" className="mr-5 hover:text-white">
+            Resume
+          </a>
           {/* <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a> */}
