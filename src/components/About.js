@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />
           </h1>
           <p className="mb-10 leading-relaxed">
-          I am a full stack web developer in the making. I have recently obtained my certification in full stack web development from the University of Texas at Austin.  I enjoy exploring the fundamentals of JavaScript and am currently on the journey of expanding my knowledge and honing my skills in various web technologies. As I progress through this ever-evolving field, I am constantly seeking new challenges and opportunities to enhance my understanding of web development concepts and practices.
+          I am a full stack web developer. I have recently obtained my certification in full stack web development from the University of Texas at Austin.  I enjoy exploring the fundamentals of JavaScript and am currently on the journey of expanding my knowledge and skills in various web technologies. As I progress through this ever-evolving field, I am constantly seeking new challenges and opportunities to enhance my understanding of web development concepts and practices.
           </p>
           <div className="flex justify-center">
             <a
